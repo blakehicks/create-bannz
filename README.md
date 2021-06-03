@@ -1,5 +1,5 @@
 # create-bannz
-Command line tool to create new instances of bannz_3000.
+Command line tool to create new instances of [bannz_3000](https://github.com/blakehicks/bannz_3000).
 
 ---
 
